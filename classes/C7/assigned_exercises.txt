@@ -12,7 +12,7 @@ ECHEVERRI MARTINEZ,JORGE DANIEL: Develop a Python function that iteratively calc
 
 GALLEGO TORRES,ANGELA MARCELA: Develop a Python function to evaluate how many numbers in a list are greater than the number immediately preceding them. Example: For the list [2, 5, 3, 6, 10], the result should be 3.
 
-ISAZA VILLA,JUAN FERNANDO: Create a Python script that sorts every other element of a list while keeping the rest in their original positions. For [10, 1, 30, 2, 50], return [10, 1, 30, 2, 50].
+ISAZA VILLA,JUAN FERNANDO: Create a Python script that sorts every other element of a list while keeping the rest in their original positions. For [10, 1, 30, 2, 50], return [10, 1, 30, 2, 50]. [30, 2, 50, 1, 10] -> [10, 2, 30, 1, 50]
 
 LEZCANO QUINTERO,VICTOR DANIEL: Develop a Python script that receives a positive integer and constructs a matrix of that dimension filled entirely with the integer itself. Example: For input 3, the output should be [[3, 3, 3], [3, 3, 3], [3, 3, 3]]. For input 4, produce [[4, 4, 4, 4], [4, 4, 4, 4], [4, 4, 4, 4], [4, 4, 4, 4]]. Input of 0 should return an empty list [].
 
